@@ -54,10 +54,12 @@ const updateWithRating = async (
 
 export async function addReviewToRestaurant(db, restaurantId, review) {
 	if (!restaurantId) {
+			console.log("No resturant ID");
 			throw new Error("No restaurant ID has been provided.");
 	}
 
 	if (!review) {
+			console.log("no reviews")
 			throw new Error("A valid review has not been provided.");
 	}
 
