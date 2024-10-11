@@ -1,14 +1,28 @@
 env:
   # Get these values from the Firebase console
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: TODO
+    value: "AIzaSyCwJm-vr0ROCLiuk584l_wUN2Xiw9wIaI0"
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: TODO
+    value: "cs5513w7.firebaseapp.com"
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: TODO
+    value: "cs5513w7"
   - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: TODO
+    value: "cs5513w7.appspot.com"
   - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: TODO
+    value: "320578434030"
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: TODO
+    value: "1:320578434030:web:3e5ebbe105c24a3b1094ff"
+
+  #     # Get these values from the Firebase console
+  # - variable: NEXT_PUBLIC_FIREBASE_API_KEY
+  #   value: AIzaSyCwJm-vr0ROCLiuk584l_wUN2Xiw9wIaI0
+  # - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
+  #   value: cs5513w7.firebaseapp.com
+  # - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
+  #   value: cs5513w7
+  # - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
+  #   value: cs5513w7.appspot.com
+  # - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
+  #   value: 320578434030
+  # - variable: NEXT_PUBLIC_FIREBASE_APP_ID
+  #   value: 1:320578434030:web:3e5ebbe105c24a3b1094ff

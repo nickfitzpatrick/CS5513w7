@@ -30,5 +30,5 @@ async function fetchWithFirebaseHeaders(request) {
 
 // TODO: get user token
 async function getAuthIdToken(auth) {
-  throw new Error('not implemented');
+  // throw new Error('not implemented');
 }
