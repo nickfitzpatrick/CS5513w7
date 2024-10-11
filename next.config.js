@@ -5,7 +5,8 @@ const nextConfig = {
 	},
 	optimization: {
 		minimizer: []
-	}
+	},
+	productionBrowserSourceMaps: true
 };
 
 module.exports = nextConfig;
